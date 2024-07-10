@@ -28,7 +28,6 @@ public:
     void remove(int data);
     Node* search(int key);
     Node*minimum(Node* node);
-    void fixViolation(Node* node);
 
 };
 
